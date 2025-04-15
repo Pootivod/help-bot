@@ -1,2 +1,4 @@
-ffmpeg/.
-helpvenv/Lib/.
+ffmpeg/*
+!ffmpeg/.gitkeep
+helpvenv/Lib/*
+!helpvenv/Lib/.gitkeep
